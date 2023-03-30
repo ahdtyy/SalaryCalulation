@@ -29,7 +29,7 @@ public class SalaryCalculation {
 
             int command =s.nextInt();
             if (command == 88){
-                System.out.println("88了，大侠，你未1000来的妻子将被我疼爱！！！哈哈");
+                System.out.println("88了，大侠，你未来的妻子将被我疼爱！！！哈哈");
                 break;
             }else if (command ==66){
                 System.out.println("唉，绿帽，何必呢，看我骑你老婆爽吗！！！哈哈");
